@@ -1,0 +1,22 @@
+[
+  {
+    "package": "embark.rstheme",
+    "url": "https://github.com/eric-hunt/embark.rstheme"
+  },
+  {
+    "package": "fragr",
+    "url": "https://github.com/eric-hunt/fragr"
+  },
+  {
+    "package": "hRvstAPI",
+    "url": "https://github.com/eric-hunt/hRvstAPI"
+  },
+  {
+    "package": "htce",
+    "url": "https://github.com/eric-hunt/htce"
+  },
+  {
+    "package": "uncleR",
+    "url": "https://github.com/eric-hunt/uncleR"
+  }
+]
