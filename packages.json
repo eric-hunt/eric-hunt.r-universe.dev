@@ -1,11 +1,11 @@
 [
   {
-    "package": "embark.rstheme",
-    "url": "https://github.com/eric-hunt/embark.rstheme"
-  },
-  {
     "package": "fragr",
     "url": "https://github.com/eric-hunt/fragr"
+  },
+  {
+    "package": "gaRbage",
+    "url": "https://github.com/eric-hunt/gaRbage"
   },
   {
     "package": "hRvstAPI",

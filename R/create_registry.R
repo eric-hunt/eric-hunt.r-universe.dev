@@ -1,6 +1,6 @@
 pkg_list <- c(
-  "embark.rstheme" = "https://github.com/eric-hunt/embark.rstheme",
   "fragr" = "https://github.com/eric-hunt/fragr",
+  "gaRbage" = "https://github.com/eric-hunt/gaRbage",
   "hRvstAPI" = "https://github.com/eric-hunt/hRvstAPI",
   "htce" = "https://github.com/eric-hunt/htce",
   "uncleR" = "https://github.com/eric-hunt/uncleR"
